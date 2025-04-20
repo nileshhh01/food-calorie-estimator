@@ -12,7 +12,14 @@ A deep learning-based system that classifies food images and estimates their cal
 - Lay the foundation for real-time food recognition (e.g., tray scanners in cafeterias)
 
 ---
+## To Run the project 
 
+- cd food-calorie-estimator
+- python -m venv .venv
+- source .venv/bin/activate  # or .venv\Scripts\activate on Windows
+- and then --> streamlit run streamlit_app/app.py
+
+---
 ## 📁 Folder Structure
 
 -  food-calorie-estimator/ 
